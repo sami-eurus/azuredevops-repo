@@ -28,7 +28,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'Azure Pipelines'
+  name: 'Azure Pipelines'
 
 steps:
 # - task: NodeTool@0
